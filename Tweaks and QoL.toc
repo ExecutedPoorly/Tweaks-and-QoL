@@ -4,6 +4,7 @@
 ## Version: @project-version@
 ## Interface: 120007
 ## SavedVariables: TweaksAndQoLDB
+## X-Curse-Project-ID: 1606746
 
 
 Libs\AceAddon-3.0\AceAddon-3.0.xml
