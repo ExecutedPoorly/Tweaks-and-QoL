@@ -42,7 +42,7 @@ function Addon:OnInitialize()
         defaults,
         true
     )
-    -- self.db.profile.CvarsOrigial 
+    --- self.db.profile.CvarsOrigial 
     self:RegisterOptions()
     --self:RegisterChatCommand({"tqol","Tweaks"}, "OpenOptions")
     
