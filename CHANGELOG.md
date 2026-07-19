@@ -1,3 +1,7 @@
+## v1.1.0 (2026-07-19)
+- Add 'auto' delete option.[D[D[D[D[D[D[D[D[D[D[D[D[D[Dconirm delete option.
+
+
 ## v1.0.9 (2026-07-17)
 - Added vendor sell/repair options.
 
